@@ -1,0 +1,2 @@
+def wake():
+  print("singおきて")
