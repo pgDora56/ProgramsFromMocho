@@ -1,2 +1,2 @@
-# Created by Dora at 2022-06-11 00:51:21
-print("Tomari Mari")
+# Created by ましう at 2022-06-11 01:28:28
+print('山は山でも食べられない山は～～～山')
